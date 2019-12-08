@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Toxito-o--java-coursework-general" />
         <module name="coursewok" />
       </profile>
     </annotationProcessing>
